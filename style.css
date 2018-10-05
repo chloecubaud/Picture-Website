@@ -1,0 +1,72 @@
+body{
+	color: black;
+	font-family:'Poppins', sans-serif;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Poppins', sans-serif;
+	background-image:"images/intro.png";
+	font-size: 40px;
+	font-weight: bolder;
+}
+a{color: grey}
+
+#banner{
+	padding: 150px;
+	background-image: url("https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cc1f82f635206f99e3132d9ebd24db6c&auto=format&fit=crop&w=1051&q=80");
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+#footage{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: : 3px;
+	background-color: #e1dfde;
+	margin-top: 40px;
+	padding-left: 0%;
+	padding-right: 0%; 
+	margin-left: 0%;
+	margin-right: 0%;
+
+
+}
+
+.travels h2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://i.pinimg.com/564x/d6/dd/22/d6dd22f2e8617cc870ec169cdfb6b72a.jpg");
+	padding: 60px;
+	background-size: cover;
+	background-position: top;
+	color: white;
+	margin-top: 30px;
+}
+
+.daily h2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://images.unsplash.com/photo-1521201378015-12cf7a3312f8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a6e8eb2baece904cda8cfe978e3e79e1&auto=format&fit=crop&w=675&q=80");
+	padding: 60px;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	margin-top: 30px;
+
+}
+
+.fun h2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://i.pinimg.com/564x/f5/d2/f7/f5d2f772da04ee3b9a790a6805f17a4f.jpg");
+	padding: 60px;
+	background-size:cover;
+	background-position: center;
+	color: white;
+	margin-top: 30px;
+}
